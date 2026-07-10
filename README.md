@@ -1,5 +1,7 @@
 # 📰 AI Newsroom Assistant
 
+**🔗 Live demo:** [Try it live →](https://ai---newsroom--assistant-ogzwau8wqq6qhpkuuxyu9n.streamlit.app/)
+
 An AI-powered content generation platform for journalists, writers, and editors, built with **Python**, **Streamlit**, and the **Gemini API**. It demonstrates practical prompt engineering — Zero-shot, Role Prompting, Few-shot Prompting, and Chain Prompting — across 8 real newsroom tools.
 
 ## Features
